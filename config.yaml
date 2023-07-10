@@ -80,6 +80,8 @@ params:
       url: "https://www.instagram.com/tejasraut461/?hl=en"
     - name: "cv"
       url: "https://drive.google.com/file/d/1Y4nTZKD3PlKNISYYKsVUeUjv9FSxkZYN/view?usp=drive_link"
+    - leetcode: "leetcode"
+      url: "https://leetcode.com/Tejas18112001/"
 
   # text search
   fuseOpts:
