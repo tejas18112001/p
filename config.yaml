@@ -53,7 +53,7 @@ params:
   profileMode:
     enabled: true
     title: "Tejas Raut"
-    subtitle: Hi 👋! I'm Tejas , I am a dedicated and skilled professional with experience in Information Technology, proficient inlanguages such as C++, Java, HTML, CSS, and JavaScript, and equipped with knowledge in technologies/frameworks like React.js, Firebase. My strength lies in dedication, staying updated, expanding skills, and applying expertise to deliver exceptional results in the IT industry andcontribute to project success.    
+    subtitle: Hi 👋! I'm Tejas , I am a dedicated and skilled professional with experience in Information Technology, proficient in languages such as C++, Java, HTML, CSS, and JavaScript, and equipped with knowledge in technologies/frameworks like React.js, Firebase. My strength lies in dedication, staying updated, expanding skills, and applying expertise to deliver exceptional results in the IT industry andcontribute to project success.    
     imageUrl: "home/result.jpg"
     imageWidth: 220
     imageHeight: 220
