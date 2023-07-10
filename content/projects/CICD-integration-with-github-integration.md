@@ -10,6 +10,7 @@ cover:
     image: "projects/automated-image-captioning/cicd-poster.png"
 --- 
 ### 🔗 [Youtube demonstration](https://www.youtube.com/watch?v=oDqqGSlxqtk)
+### 🔗 [GitHub](https://github.com/tejas18112001/node-todo)
 
 ## Intro
 Implemented CI/CD pipeline  using GitHub Actions with integration to AWS, Jenkins, Docker, and GitHub. The Docker Jenkins Pipeline was built to showcase the continuous integration and continuous delivery workflow. A node.js todo list application was deployed on AWS as part of the pipeline. The project was tracked on GitHub, ensuring that each code commit to the repository was versioned. To facilitate this process, a Docker Jenkins Pipeline was created. This pipeline would generate a Docker image from the Dockerfile, as well as pull and run the Docker image as a container.
