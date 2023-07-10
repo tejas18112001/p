@@ -6,7 +6,7 @@ draft: false
 tags: ["React", "Web Development", "Frontend Development", "HTML", "CSS", "JavaScript" , "materialui"]
 weight: 201
 cover:
-    image: "/projects/obsidian-publish-github-action/todo.png"
+    image: "/projects/obsidian-publish-github-action/youtube.png"
 ---
 
 # Description
