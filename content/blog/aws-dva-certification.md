@@ -16,7 +16,7 @@ fdgfg
 
 ### 🎬 [YouTube Video](https://youtu.be/x88k9fuEDuE) -->
 
-Hi Everyone !!
+<!-- Hi Everyone !!
 
 Are you there? Are you facing the problem while achieving your goal? Are you buried into the some piece of work which is not completing in target time ?Do you want to enjoy the life of hard working ?Do you want to overcome all this problem? Oh , I am there to help you to come out from this problem .
 
@@ -28,4 +28,4 @@ Today, Everyone want to get more productive in less time of work , creatively so
 
 Idea map is the visual representation of whatever you thinking in your brain .If you train your brain in such a way so that it will stimulate the right side of your brain , it will be exceptional achievement for individuals around the globe .
 
-In the coming post we are going through some methods along with the assignment which make us incredibly successful . -->
+In the coming post we are going through some methods along with the assignment which make us incredibly successful . --> -->
