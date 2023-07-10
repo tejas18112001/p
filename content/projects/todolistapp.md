@@ -6,7 +6,7 @@ draft: false
 tags: ["React", "Web Development", "Frontend Development", "HTML", "CSS", "JavaScript"]
 weight: 201
 cover:
-    image: "/projects/obsidian-publish-github-action/todolist.png"
+    image: "/projects/obsidian-publish-github-action/todo.png"
 ---
 
 ### 🔗 [Github](https://github.com/tejas18112001/todo_react)
