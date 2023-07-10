@@ -1,6 +1,6 @@
 ---
-title: "Currently working"
-description: "A Todo list web application built using React "
+title: "YouTube Clone"
+description: "Exciting you tube clone build using Reactjs, materialui"
 dateString: June 2023
 draft: false
 tags: ["React", "Web Development", "Frontend Development", "HTML", "CSS", "JavaScript" , "materialui"]
