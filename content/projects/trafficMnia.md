@@ -7,7 +7,7 @@ tags: ["Python", "Pygame" , "Pycharm"]
 showToc: false
 weight: 206
 cover:
-    image: "projects/gaze-tracking-goggles/pygame.png"
+    image: "projects/gaze-tracking-goggles/cargame.png"
 --- 
 ## Description
 
